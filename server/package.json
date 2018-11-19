@@ -1,0 +1,18 @@
+{
+  "name": "task-system",
+  "version": "1.0.0",
+  "description": "task system",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "task"
+  ],
+  "author": "huyang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.15"
+  }
+}
